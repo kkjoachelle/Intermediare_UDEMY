@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Modifiers\bin\Debug\Modifiers.exe.config
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Modifiers\bin\Debug\Modifiers.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Modifiers\bin\Debug\Modifiers.pdb
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Modifiers\obj\Debug\Modifiers.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Modifiers\obj\Debug\Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Modifiers\obj\Debug\Modifiers.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Modifiers\obj\Debug\Modifiers.pdb

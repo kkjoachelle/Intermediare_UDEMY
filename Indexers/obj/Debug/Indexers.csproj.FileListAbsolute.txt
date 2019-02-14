@@ -1,0 +1,6 @@
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Indexers\bin\Debug\Indexers.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Indexers\bin\Debug\Indexers.pdb
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Indexers\obj\Debug\Indexers.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Indexers\obj\Debug\Indexers.pdb

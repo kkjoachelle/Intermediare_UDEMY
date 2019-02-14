@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Composition\bin\Debug\Composition.exe.config
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Composition\bin\Debug\Composition.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Composition\bin\Debug\Composition.pdb
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Composition\obj\Debug\Composition.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Composition\obj\Debug\Composition.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Composition\obj\Debug\Composition.pdb

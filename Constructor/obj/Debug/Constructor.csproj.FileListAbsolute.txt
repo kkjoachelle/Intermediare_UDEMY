@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Constructor\bin\Debug\Constructor.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Constructor\bin\Debug\Constructor.pdb
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Constructor\obj\Debug\Constructor.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Constructor\obj\Debug\Constructor.pdb

@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Introduction_Classes\bin\Debug\Introduction_Classes.exe.config
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Introduction_Classes\bin\Debug\Introduction_Classes.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Introduction_Classes\bin\Debug\Introduction_Classes.pdb
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Introduction_Classes\obj\Debug\Introduction_Classes.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Introduction_Classes\obj\Debug\Introduction_Classes.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Introduction_Classes\obj\Debug\Introduction_Classes.exe
+C:\Users\KOFFI\source\repos\Intermediare_UDEMY\Introduction_Classes\obj\Debug\Introduction_Classes.pdb
